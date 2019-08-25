@@ -22,3 +22,25 @@ Please report bugs and/or suggested solutions in the [Issues tab](https://github
 
 ## Related (unfortunately misunderstood and closed :-/) pull request 
 https://developer.blender.org/T31392
+
+## Hall of Fame
+
+Jace Priester - Blender 2.6+ version
+
+Someone who calls himself Flareless - Blender 2.8+ tweaks
+
+## Lost voices from the past
+
+Great addition, I was looking desperately for something like this!
+
+Closing as archived, over 3 years old, broken.
+
+Please fix this addon ASAP!
+
+Thanks so much!
+
+"not useful" O_o
+
+Oh my gosh. It's working!
+
+
